@@ -76,3 +76,7 @@ Tratamiento de objetos.
 Para todas las opciones, se leerá por teclado la ruta de entrada y ruta de salida.
 
 Tal y como hemos visto, necesitarás definir una clase con los campos adecuados para incorporar la información del fichero de cartelera. Analiza y diseña como debería ser la clase Cartelera.
+
+# Recomendaciones y orientaciones para la implementación
+
+* Crear una clase llamada LecturaEscrituraStreams donde tendríamos los distintos métodos de lectura y escritura de ficheros: por ejemplo, pedirRuta, leerEscribirByteByte (escritura Byte a Byte), leerEscribirCarCar (ídem Carácter a Carácter), leerEscribirBuffer (ídem con Buffers), leerLineaEscribirObj (que leerá un fichero con BufferedReader y escribirá en otro con ObjectOutputStream) y leerObjEscribirCons (que lea un fichero con ObjectInputStream y lo mostrará por consola).
