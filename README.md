@@ -52,11 +52,11 @@ Como se puede observar, el fichero pertenece a la cartelera de un Cine. Nuestro 
 
 * Además de controlar las excepciones (checked) que son obligatorias, debemos crear una excepción nueva para el caso en que la ruta del fichero de entrada/salida sea inválida (no esté informada) y generando una nueva excepción, llamada RutaInvalida. Esta excepción se capturará en el main, y una vez capturada llamaremos al método imprimirError e imprimiremos el mensaje de la excepción por consola. Este método se caracteriza por:
 
-  Tener un constructor que recibe un mensaje que se utilizará para informar y personalizar que a posteriori se escribirá.
+* Tener un constructor que recibe un mensaje que se utilizará para informar y personalizar que a posteriori se escribirá.
 
-  Tener un método que permitirá escribir en un fichero de errores el mensaje con la siguiente información mensaje personalizado + timestamp +getStackTrace().
+* Tener un método que permitirá escribir en un fichero de errores el mensaje con la siguiente información mensaje personalizado + timestamp +getStackTrace().
 
-  Si hubiera más información en el fichero de errores, esta se debe mantener.
+* Si hubiera más información en el fichero de errores, esta se debe mantener.
 
 ## PARTE AVANZADA.
 
