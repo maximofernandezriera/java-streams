@@ -80,3 +80,5 @@ Tal y como hemos visto, necesitarás definir una clase con los campos adecuados 
 # Recomendaciones y orientaciones para la implementación
 
 * Crear una clase llamada LecturaEscrituraStreams donde tendríamos los distintos métodos de lectura y escritura de ficheros: por ejemplo, pedirRuta, leerEscribirByteByte (escritura Byte a Byte), leerEscribirCarCar (ídem Carácter a Carácter), leerEscribirBuffer (ídem con Buffers), leerLineaEscribirObj (que leerá un fichero con BufferedReader y escribirá en otro con ObjectOutputStream) y leerObjEscribirCons (que lea un fichero con ObjectInputStream y lo mostrará por consola).
+
+* Crear la clase Película que define como son los objetos "película" que serán leidos y escritos en ficheros. Esta digamos que es la parte que hemos preparado hasta ahora con los exámenes y simulacros.
