@@ -75,7 +75,7 @@ Tratamiento de objetos.
 
 Para todas las opciones, se leerá por teclado la ruta de entrada y ruta de salida.
 
-Tal y como hemos visto, necesitarás definir una clase con los campos adecuados para incorporar la información del fichero de cartelera. Analiza y diseña como debería ser la clase Cartelera.
+Tal y como hemos visto, necesitarás definir una clase con los campos adecuados para incorporar la información del fichero de cartelera. Analiza y diseña como debería ser la clase necesaria.
 
 # Recomendaciones y orientaciones para la implementación
 
