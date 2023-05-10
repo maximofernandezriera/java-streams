@@ -84,3 +84,5 @@ Tal y como hemos visto, necesitarás definir una clase con los campos adecuados 
 * Crear la clase Película que define como son los objetos "película" que serán leidos y escritos en ficheros. Esta digamos que es la parte que hemos preparado hasta ahora con los exámenes y simulacros.
 
 * Crear la clase RutaInvalida que extiende de Excepcion que básicamente se utilizará cuando no se pueda acceder al fichero de entrada, debe tener constructores y un sistema de logs, es decir, guardar en un fichero de texto los errores que se han producido.
+
+* Y una clase principal para probar toda la lógica, el menú, los ficheros y excepciones.
