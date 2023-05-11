@@ -48,7 +48,7 @@ Como se puede observar, el fichero pertenece a la cartelera de un Cine. Nuestro 
 
 3. Lectura y escritura de fichero línea a línea con buffers (character Streams).
 
-# Deberempos tener en cuenta que:
+# Deberemos tener en cuenta que:
 
 * En todas las opciones se debe solicitar al usuario la ruta del fichero de entrada y de salida.
 
