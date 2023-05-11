@@ -66,7 +66,7 @@ Continuando con el ejercicio anterior, vamos a ampliar el menú para la lectura 
 
 Tratamiento de objetos.
 
-5. Esta opción 4, nos enviará a un nuevo menú con estas opciones:
+4. Esta opción 4, nos enviará a un nuevo menú con estas opciones:
 
 * Lectura línea a línea y escritura con objetos (obteniendo ficheroSalObj).
 * Lectura de objetos (leyendo ficheroSalObj) y escritura de objetos (obteniendo ficheroSalObj2).
